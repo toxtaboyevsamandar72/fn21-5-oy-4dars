@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.container {
+    max-width: 1440px;
+    width: 500px;
+    margin: 0 auto;
+    background-color: rgb(146, 216, 89);
+    margin-top: 100px;
+    height: 500px;
+    box-shadow: inset;
+}
+
+.inputes {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 20px;
+    border: 1px solid rgb(128, 117, 0);
+    border: -20px;
+    width: 300px;
+    height: 40px;
+}
+
+.buttonEl {
+    border: 2px solid rgb(1, 1, 18);
+    width: 80px;
+    height: 40px;
+   background-color:rgb(89, 233, 32);
+}
+.text {
+    margin-left: 50px;
+    margin-top: 25px;
+    padding: 5px;
+    width: 400px;
+}
+
+.add-btn {
+    margin-left: 375px;
+   position: none;
+    width: 80px;
+    height: 40px;
+    border: 2px solid rgb(184, 164, 199);
+    background-color:rgb(98, 104, 95);
+}
